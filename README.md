@@ -11,13 +11,20 @@ These steps are executed:
 - Close the application
 
 ## Requirements:
-1. Need to have android sdk
+1. Need to have android sdk and Jdk 1.8
 2. Need to install appium server
-3. Need to enable USB debugging
 
 ## Run the app
-1. Start appium server
-2. Open the project with IntelIJ
-3. Click on "Play" button
+1. Install ChalDal app to your android phone from <a href="https://play.google.com/store/apps/details?id=com.chaldal.poached">playstore</a> 
+2. Connect your phone with USB cable with pc
+3. Enable USB debugging
+4. Check from CMD if device is connected
+'''sh
+adb devices
+'''
+5. Start appium server
+6. Open the project with IntelIJ
+7. Import the dependency fom gradle
+8. Click on "Play" button
 
 See the automation <a href="https://www.youtube.com/watch?v=DLfScKAlm2A" target="_blank">video</a> here
