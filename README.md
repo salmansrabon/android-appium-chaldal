@@ -20,4 +20,4 @@ These steps are executed:
 2. Open the project with IntelIJ
 3. Click on "Play" button
 
-See the automation <a href="https://www.youtube.com/watch?v=DLfScKAlm2A">video</a> here
+See the automation <a href="https://www.youtube.com/watch?v=DLfScKAlm2A" target="_blank">video</a> here
