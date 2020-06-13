@@ -1,4 +1,5 @@
 # Android-appium-chaldal
+## Requirements:
 These steps are executed:
 
 - Open/install Chaldal Application on your device
@@ -10,11 +11,11 @@ These steps are executed:
 - Verify Text “Nothing to see here” on cart screen after remove items
 - Close the application
 
-## Requirements:
+## Pre Requsites:
 1. Need to have android sdk and Jdk 1.8
 2. Need to install appium server
 
-## Run the app
+## Run the app:
 1. Install ChalDal app to your android phone from <a href="https://play.google.com/store/apps/details?id=com.chaldal.poached" target="_blank">playstore</a> 
 2. Connect your phone with USB cable with pc
 3. Enable USB debugging
