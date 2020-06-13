@@ -1,4 +1,4 @@
-# android-appium-chaldal
+# Android-appium-chaldal
 This steps are executed:
 
 - Open/install Chaldal Application on your device
@@ -9,3 +9,13 @@ This steps are executed:
 - Click Minus (-) icon to empty the card
 - Verify Text “Nothing to see here” on cart screen after remove items
 - Close the application
+
+## Requirements:
+1. Need to have android sdk
+2. Need to install appium server
+3. Need to enable USB debugging
+
+## Run the app
+1. Start appium server
+2. Open the project with IntelIJ
+3. Click on "Play" button
