@@ -1,4 +1,12 @@
 # Android-appium-chaldal
+
+## Technology used:
+- Test tool: Selenium and appium
+- Build tool: Gradle
+- Language: Java
+- Architecture: POM
+- Framework: TestNG
+
 ## Requirements:
 These steps are executed:
 
