@@ -26,7 +26,7 @@ public class AppLaunch {
         cap.setCapability("appPackage", "com.chaldal.poached");
         cap.setCapability("appActivity", "com.chaldal.poached.MainActivity");
         cap.setCapability("autoGrantPermissions", true);
-        //File file = new File(getClass().getResource("/calculator2.apk").getFile());
+        //File file = new File(getClass().getResource("/chaldal.apk").getFile());
         //cap.setCapability(MobileCapabilityType.APP, file.getAbsolutePath() );
         URL url=new URL("http://127.0.0.1:4723/wd/hub");
         driver=new AndroidDriver(url,cap);
