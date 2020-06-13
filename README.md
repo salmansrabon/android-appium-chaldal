@@ -19,3 +19,5 @@ These steps are executed:
 1. Start appium server
 2. Open the project with IntelIJ
 3. Click on "Play" button
+
+See the video here <a href="https://github.com/salmansrabon/android-appium-chaldal/blob/master/chaldal.mp4">Demo</a>
