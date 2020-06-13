@@ -23,7 +23,7 @@ These steps are executed:
 1. Need to have android sdk and Jdk 1.8
 2. Need to install appium server
 
-## Run the app:
+## Run the script:
 1. Install ChalDal app to your android phone from <a href="https://play.google.com/store/apps/details?id=com.chaldal.poached" target="_blank">playstore</a> 
 2. Connect your phone with USB cable with pc
 3. Enable USB debugging
