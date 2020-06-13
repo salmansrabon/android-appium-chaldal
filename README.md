@@ -1,5 +1,5 @@
 # Android-appium-chaldal
-This steps are executed:
+These steps are executed:
 
 - Open/install Chaldal Application on your device
 - Search for item “toothbrush”
