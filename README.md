@@ -20,4 +20,4 @@ These steps are executed:
 2. Open the project with IntelIJ
 3. Click on "Play" button
 
-See the automation <a href="https://github.com/salmansrabon/android-appium-chaldal/blob/master/chaldal.mp4>video</a> here
+See the automation <a href="https://github.com/salmansrabon/android-appium-chaldal/blob/master/chaldal.mp4">video</a> here
