@@ -33,7 +33,7 @@ adb devices
 ```
 5. Now, Start appium server
 6. Open the project with IntelIJ
-7. Import the dependency fom gradle
+7. Import the dependency from gradle
 8. Click on "Play" button
 
 See the automation <a href="https://www.youtube.com/watch?v=DLfScKAlm2A" target="_blank">video</a> here
